@@ -1,4 +1,4 @@
-# shopping-days
+# shopping
 
 This is a demo website.
 
