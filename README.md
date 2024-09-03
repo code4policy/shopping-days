@@ -2,6 +2,9 @@
 
 This is a demo website.
 
+[Slides](https://slides.com/dhrumilmehta/deck-e28bd3)
+[Form](https://docs.google.com/forms/d/e/1FAIpQLScorxHN6q8cY3iXUFj--VKMN559ILxGBzT1q4hndYRy3f4NFQ/viewform?usp=sf_link)
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/code4policy/shopping-days)
 
 * `index.html` contains the contents of the website
